@@ -1,6 +1,12 @@
 # dependencies
 node_modules/
 build/
+vendor/bootstrap/css/bootstrap.css
+vendor/bootstrap/js/bootstrap.js
+vendor/font-awesome/css/font-awesome.css
+vendor/jquery/jquery.js
+js/freelancer.min.js
+css/freelancer.min.css
 
 # testing
 /coverage
